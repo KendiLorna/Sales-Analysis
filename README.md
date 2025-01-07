@@ -1,13 +1,13 @@
 # Sales-Analysis
-The data was provided by AQSkill for analysis to provide insights.
+AQSkill provided the data for analysis to provide insights.
 
 ### QUESTIONS
 
-- Who are the top valuable customers?
+- Who are the top five valuable customers?
 
-- Which is the top loss-making product?
+- Which are the five top loss-making products?
 
-- Which is the top discounted item?
+- Which are the top five discounted items?
 
 - Which category of products accounts for most sales?
 
@@ -17,13 +17,17 @@ The data was provided by AQSkill for analysis to provide insights.
 
 ### PROCESS
 
-Data from a company retailing various office products was used to create a sales dashboard. The analysis aimed to answer the questions provided.
+Data from a company retailing various office products created a sales dashboard—the analysis aimed to answer the questions provided.
 
 I used the sales data from 2016 to 2019 to create pivot tables, which summarized total revenue, total number of products sold, total profit, and total discount.
 
 I then created charts and cards on the dashboard.
 
 Finally, I  added filters to the dashboard to make it interactive. The filters include year, region, and ship mode.
+
+### DASHBOARD
+
+![Sales Dasboard](https://github.com/user-attachments/assets/f947a306-8fd0-43bf-818a-ceab20df59c5)
 
 ### FINDINGS
 
