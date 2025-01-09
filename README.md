@@ -1,5 +1,9 @@
 # Sales-Analysis
-AQSkill provided the data for analysis to provide insights.
+Company sales data in Excel was used for the analysis.
+
+### DATA SOURCE
+
+AQSkill provided the data for analysis to provide insights in an Excel dashboard.
 
 ### QUESTIONS
 
@@ -18,6 +22,8 @@ AQSkill provided the data for analysis to provide insights.
 ### PROCESS
 
 Data from a company retailing various office products created a sales dashboard—the analysis aimed to answer the questions provided.
+
+The data was clean- confirmed through checks for duplicates, missing values, and nulls.
 
 I used the sales data from 2016 to 2019 to create pivot tables, which summarized total revenue, total number of products sold, total profit, and total discount.
 
